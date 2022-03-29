@@ -1,1 +1,1 @@
-# Egzaminas
+ Eiti į index.html
